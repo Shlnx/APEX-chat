@@ -4,7 +4,7 @@
   "description": "",
   "main": "chat.js",
   "scripts": {
-    "start": "node chat.js &"
+    "start": "node chat.js"
   },
   "port" : "SERVER_PORT",
   "server" : "SERVER_HOST (OR IP)",
